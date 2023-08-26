@@ -58,6 +58,7 @@ background-color: rgb(112, 13, 204);
     background-color: rgb(112, 13, 204);
     color: white;
     cursor: default;
+    box-shadow: -10px 10px 10px rgba(0,0,0,.5);
 }
 
 
